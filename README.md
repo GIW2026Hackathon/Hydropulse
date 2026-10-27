@@ -13,7 +13,3 @@ Hydropulse is a platform for monitoring water levels and soil moisture, with aut
 
 - [davytheprogrammer](https://github.com/davytheprogrammer)
 - [Nas-inya](https://github.com/Nas-inya)
-
-## Project status
-
-Early stage. Product details and implementation are still being developed.
